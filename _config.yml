@@ -5,16 +5,16 @@ markdown: kramdown
 
 # 作者信息
 author: 
-  name: 李乾坤
-  email: qiankun.li@qq.com
+  name: Ting Lu
+  email: vincentluting@hotmail.com
   link: 
   weibo: 
-  github: http://qiankunli.github.io
+  github: 
 
 # 站点信息
-title: 李乾坤的博客 
-description: 李乾坤的博客
-url: http://qiankunli.github.io
+title: Ting's Dream weaver
+description: Ting's Dream weaver
+url: https://tingsdreamweaver.github.io/
 rss_url: 
 
 # gavatar头像及Favicon

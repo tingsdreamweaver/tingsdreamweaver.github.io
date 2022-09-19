@@ -3,33 +3,33 @@ paginate: 10
 # markdown: rdiscount
 markdown: kramdown
 
-# 作者信息
+# Author info
 author: 
   name: Ting Lu
   email: vincentluting@hotmail.com
-  link: 
+  link: https://www.linkedin.com/in/ting-lu-vincent/
   weibo: 
   github: 
 
-# 站点信息
+# Web info
 title: Ting's Dream weaver
 description: Ting's Dream weaver
 url: https://tingsdreamweaver.github.io/
 rss_url: 
 
-# gavatar头像及Favicon
+# avatar & Favicon
 gavatar: /public/upload/gavatar/gavatar.jpg
 favicon: /public/upload/gavatar/favicon.ico
 
-# google analytics 设置
+# google analytics settings
 google_analytics_tracking_id: UA-108442533-1
 ga:
   id: UA-108442533-1
   url: 
 
-# disqus 设置
+# disqus settings
 disqus:
-  shortname: qiankunli
+  shortname: tingdreamweaver
 
 # gitment
 gitment:

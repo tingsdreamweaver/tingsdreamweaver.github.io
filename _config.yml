@@ -7,7 +7,7 @@ markdown: kramdown
 author: 
   name: Ting Lu
   email: vincentluting@hotmail.com
-  link: 
+  link: https://www.linkedin.com/in/ting-lu-vincent/
   weibo: 
   github: 
 
@@ -29,7 +29,7 @@ ga:
 
 # disqus settings
 disqus:
-  shortname: qiankunli
+  shortname: tingdreamweaver
 
 # gitment
 gitment:

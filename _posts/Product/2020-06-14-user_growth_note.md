@@ -2,7 +2,7 @@
 
 layout: post
 title: 《用户增长》笔记
-category: 生活
+category: 产品
 tags: Product
 keywords: 精进
 

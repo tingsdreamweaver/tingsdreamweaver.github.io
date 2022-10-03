@@ -25,7 +25,7 @@ title: Homepage
             {% for post in tag[1] %}
               <a  href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
                 {{post.title}}
-                <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>
+                <span class="badge">{{ post.date | date:"%Y-%m-%d-" }}</span>
               </a>
             {% endfor %}
           {% endif %}

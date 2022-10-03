@@ -16,9 +16,6 @@ description: Ting's Dream weaver
 url: https://tingsdreamweaver.github.io/
 rss_url: 
 
-# Theme
-theme: minima
-
 # avatar & Favicon
 gavatar: /public/upload/gavatar/gavatar.jpg
 favicon: /public/upload/gavatar/favicon.ico

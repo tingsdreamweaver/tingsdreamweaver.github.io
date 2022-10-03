@@ -1,10 +1,10 @@
 ---
 
 layout: post
-title: 《深入剖析kubernetes》笔记
+title: Introduction to CS
 category: Computer Science
-tags: Kubernetes
-keywords: kubernetes 
+tags: Introduction
+keywords: Introduction 
 
 ---
 

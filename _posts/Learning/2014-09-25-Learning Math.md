@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Math 
+title: Learning Math 
 category: Learning
 tags: math
 keywords: math

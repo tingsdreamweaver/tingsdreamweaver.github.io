@@ -39,7 +39,7 @@ gitment:
   secret: 13b91b306680f11a55713382529b83259ef56546
 
 # 主题设置，自动激活某个标签
-active: 技术
+active: Technology
 
 # 首页除了最新文章外显示分类
 cates: 
@@ -48,8 +48,8 @@ cates:
 
 # 中文本地化
 locals:
-  tags: 标签
-  about: 关于
-  newest: 最新文章
+  tags: tags
+  about: About
+  newest: Latest posts
 plugins:
 - jekyll-paginate

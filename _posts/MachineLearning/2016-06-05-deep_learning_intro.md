@@ -2,7 +2,7 @@
 
 layout: post
 title: 深度学习泛谈
-category: 技术
+category: Technology
 tags: MachineLearning
 keywords: 深度学习
 

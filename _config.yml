@@ -7,8 +7,7 @@ markdown: kramdown
 author: 
   name: Ting Lu
   email: vincentluting@hotmail.com
-  link: https://www.linkedin.com/in/ting-lu-vincent/
-  weibo: 
+  link: https://www.linkedin.com/in/ting-lu-vincent/ 
   github: 
 
 # Web info
@@ -16,6 +15,9 @@ title: Ting's Dream weaver
 description: Ting's Dream weaver
 url: https://tingsdreamweaver.github.io/
 rss_url: 
+
+# Theme
+theme: minima
 
 # avatar & Favicon
 gavatar: /public/upload/gavatar/gavatar.jpg

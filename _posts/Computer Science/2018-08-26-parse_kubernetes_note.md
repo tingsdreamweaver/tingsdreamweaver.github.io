@@ -2,7 +2,7 @@
 
 layout: post
 title: 《深入剖析kubernetes》笔记
-category: Technology
+category: Computer Science
 tags: Kubernetes
 keywords: kubernetes 
 

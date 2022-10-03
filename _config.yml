@@ -48,7 +48,7 @@ cates:
 
 # 中文本地化
 locals:
-  tags: tags
+  tags: Tags
   about: About
   newest: Latest posts
 plugins:

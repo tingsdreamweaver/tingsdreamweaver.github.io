@@ -2,8 +2,8 @@
 layout: post
 title: Learning Source Reference 
 category: Learning
-tags: CS
-keywords: CS
+tags: cs
+keywords: cs
 ---
 
 # My one-stop wiki ##
@@ -23,10 +23,8 @@ keywords: CS
 - [Planet MySQL](https://planet.mysql.com/)
 
 ### SQL Books:
-- 《深入浅出SQL》-Lynn
-- 《mysql必知必会》
-- 《深入理解MySQL》
-- 《数据库系统概念》这本书是dba必看
+-  'Head First SQL: Your Brain on SQL -- A Learner's Guide' - Lynn
+-  'MySQL Crash Course'
 
 
 

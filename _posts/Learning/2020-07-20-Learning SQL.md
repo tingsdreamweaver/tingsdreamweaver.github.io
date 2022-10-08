@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Math 
+title: Learning SQL 
 category: Learning
 tags: sql
 keywords: sql

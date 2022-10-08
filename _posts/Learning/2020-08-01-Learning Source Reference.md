@@ -19,7 +19,8 @@ keywords: cs
 - [SQLZOO](https://zh.sqlzoo.net/wiki/SQL_Tutorial) For exercises.
 - [W3school](http://www.w3school.com.cn/sql/) Quickly check basic SQL commands and understand the meaning and usage of SQL commands. Finally do a SQL test to see if the basic SQL concepts are established.
 - [W3school SQL exercise](http://www.w3resource.com/sql-exercises/) The questions are rich but basic. It provides an interactive programming window, but the interface is not friendly enough. It is suitable for a recap after having mastered SQL in general.
-- [50 questions for sql](https://www.jianshu.com/p/476b52ee4f1b) [the answers](https://blog.csdn.net/woooooood/article/details/85163780)
+- [50 questions for sql](https://www.jianshu.com/p/476b52ee4f1b)
+- [the answers for the 50 questions](https://blog.csdn.net/woooooood/article/details/85163780)
 - [Planet MySQL](https://planet.mysql.com/)
 
 ### SQL Books:

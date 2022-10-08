@@ -6,8 +6,6 @@ tags: sql
 keywords: sql
 ---
 
-# To begin with
-
 ## Basic learning process:
 1. Learn basic knowledge of database
 2. Install a database (Postgresql or MySQL)

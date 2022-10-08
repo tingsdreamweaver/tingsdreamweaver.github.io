@@ -15,6 +15,6 @@ Basic learning process:
 4. Scam/Have a SQL reference website or book
 5. Exercise (THE MOST IMPORTANT PART)
 
-Mindmap:
+*Mindmap:
 ![](/public/img/database/SQL.png)
 

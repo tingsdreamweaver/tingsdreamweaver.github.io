@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Learning English
+title: Learning German
 category: Learning
-tags: en
-keywords: en
+tags: DE
+keywords: DE
 ---
 
 ## 

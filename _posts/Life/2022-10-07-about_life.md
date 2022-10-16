@@ -6,4 +6,4 @@ tags: happiness
 keywords: happiness
 ---
 
-## I am happy, and I believe I can stay happy forever:)
+## I am happy, and I will stay happy.

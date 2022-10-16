@@ -6,25 +6,25 @@ tags: sql
 keywords: sql
 ---
 
-## Basic learning process
+## 1 Basic learning process
 1. Learn basic knowledge of database
 2. Install a database (Postgresql or MySQL)
 3. Find a good SQL website or book for reference
 4. Build a basic mindmap of SQL grammar  (via an online course or a book)
 5. Exercise and apply the knowledge at work (THE MOST IMPORTANT PART. We need to type the code by ourselves instead of using copy paste.)
 
-## Tips
+## 2 Tips
 - To end your statements with a semicolon(;) - It's not mandatory but it's a good habit. 
 - It is very forgiving in terms of upper/lower case, extra spaces, and line breaks.
 - Don't copy paste code. It's better to type it to get the "mussle memory.
 
-## SQL Reference
+## 3 SQL Reference
 
-### Database Documentation
+### 1) Database Documentation
 - [PostgreSQL 14.5 Documentation](https://www.postgresql.org/docs/current/index.html)
 - [SQL reference for Amazon S3 Select and S3 Glacier Select](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference.html)
 
-### SQL Online Learning Resources
+### 2) SQL Online Learning Resources
 - [SQLBolt](https://sqlbolt.com/) Friendly interface. It explains the functions of SQL statements in detail, and provides an interactive online programming environment to experience the usage of SQL. No registration required.
 - [SQLZOO](https://zh.sqlzoo.net/wiki/SQL_Tutorial) For exercises.
 - [W3school](http://www.w3school.com.cn/sql/) Quickly check basic SQL commands and understand the meaning and usage of SQL commands. Finally do a SQL test to see if the basic SQL concepts are established.
@@ -32,11 +32,11 @@ keywords: sql
 - [50 questions for sql](https://www.jianshu.com/p/476b52ee4f1b)
 - [the answers for the 50 questions](https://blog.csdn.net/woooooood/article/details/85163780)
 
-### SQL Books
+### 2) SQL Books
 -  'Head First SQL: Your Brain on SQL -- A Learner's Guide' - Lynn
 -  'MySQL Crash Course'
 
-## Process of write a query
+## 4 Process of write a query
 1. Decide on the output you want (list of columns)
 2. Identify the tables
 3. Identify the necessary filters
@@ -49,6 +49,6 @@ keywords: sql
 7. Test and check for errors
 8. run query
 
-## Mindmap
+## 5 Mindmap
 ![](/public/img/database/SQL.png)
 

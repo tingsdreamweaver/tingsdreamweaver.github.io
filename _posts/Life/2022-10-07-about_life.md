@@ -3,7 +3,7 @@ layout: post
 title: Life
 category: Life
 tags: life
-keywords: Life
+keywords: life
 ---
 
 ## To begin with ##

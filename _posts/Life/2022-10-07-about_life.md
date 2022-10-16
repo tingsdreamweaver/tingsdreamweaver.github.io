@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Life
+title: Happiness
 category: Life
-tags: life
-keywords: life
+tags: happiness
+keywords: happiness
 ---
 
-## To begin with ##
-
-I am happy at the moment:)
+## I am happy, and I believe I can stay happy forever:)

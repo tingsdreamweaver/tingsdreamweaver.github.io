@@ -13,6 +13,11 @@ keywords: sql
 4. Build a basic mindmap of SQL grammar  (via an online course or a book)
 5. Exercise and apply the knowledge at work (THE MOST IMPORTANT PART. We need to type the code by ourselves instead of using copy paste.)
 
+## Tips
+- To end your statements with a semicolon(;) - It's not mandatory but it's a good habit. 
+- It is very forgiving in terms of upper/lower case, extra spaces, and line breaks.
+- Don't copy paste code. It's better to type it to get the "mussle memory.
+
 ## SQL Reference
 
 ### Database Documentation
@@ -30,6 +35,19 @@ keywords: sql
 ### SQL Books
 -  'Head First SQL: Your Brain on SQL -- A Learner's Guide' - Lynn
 -  'MySQL Crash Course'
+
+## Process of write a query
+1. Decide on the output you want (list of columns)
+2. Identify the tables
+3. Identify the necessary filters
+	1. time/place/product
+	2. partition columns
+	3. unwanted data
+4. Decide if subqueries will be necessary and plan the structure
+5. write the SQL
+6. double check your partition filters and join conditions are sufficient
+7. Test and check for errors
+8. run query
 
 ## Mindmap
 ![](/public/img/database/SQL.png)

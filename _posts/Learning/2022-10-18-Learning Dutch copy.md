@@ -7,7 +7,7 @@ keywords: NL
 ---
 
 ## Learning Dutch
-![](/public/img/learning//Dutch/Nederlands.png)
+![](/public/img/learning/Dutch/Nederlands.png)
 
 
 ## Dutch Gramma

@@ -10,5 +10,3 @@ keywords: cs
 
 ## Computer Science - Basic Knowledge
 ![](/public/img/IT/CS.png)
-
-## To be continued

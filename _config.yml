@@ -21,9 +21,9 @@ gavatar: /public/upload/gavatar/gavatar.jpg
 favicon: /public/upload/gavatar/favicon.ico
 
 # google analytics settings
-google_analytics_tracking_id: UA-108442533-1
+google_analytics_tracking_id: G-ZBBYH3JDCD
 ga:
-  id: UA-108442533-1
+  id: G-ZBBYH3JDCD
   url: 
 
 # disqus settings

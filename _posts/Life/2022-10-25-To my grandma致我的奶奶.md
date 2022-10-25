@@ -53,6 +53,55 @@ keywords: family
 
 
 
+my grandma
+
+Grandma, I'm Xiao Ting. How are you feeling today?
+
+I have a lot to say, and I want to tell you now. I'm afraid that if I don't, time may soon leave me ruthlessly in some corner of my memory. You have the right to listen to this paragraph as if you were watching TV. I guess, maybe the only "accompaniment" you had in the past was the sound of the TV? Do you think that only when you hear the sound of the TV will you feel that the world still has sound or that there are people? I can imagine, when you can no longer leave the tens of square meters on the 7th floor of that apartment because of your physical illness, when you gradually lose control of your life and you can't have someone by your side at all times, when you At the moment when I turned off the TV and tried to fall asleep in the dead of night, how helpless, lonely and hopeless it was. But I also know that I can't really imagine, because I haven't really felt the pain of powerlessness and loneliness, and any adjectives I use to describe these pains may be one-sided. I may have been standing in the perspective of a third person, talking to you about how to hold hope in the midst of despair, fight back against suffering in adversity, and struggle to find your gratitude for life and those who love you in loneliness. These principles are not wrong in themselves, but how difficult they are in practice, I am not qualified to judge at all, or even imagine. If I am in your perspective, can I do better? Honestly, I don't know either. But one thing I can be sure of is that I am really trying to improve my life right now. I'm actively looking for hope, I'm grateful for those who truly love me and cherish them, and I'm trying all sorts of ways to fix my sleep and migraines. I actually like this sentence, "The best way to plant a tree is 10 years ago. The second is now." Maybe we really don't have much time in this world, but I believe that life's Mass is far greater than the length of life. What we can control is not the future, let alone the past, but only the present. Live every day as the last day of your life, then you will suddenly realize how much you want to live this day well, how much you want to treat those around you who love you, how much you want to cheer up and feel the world beautiful. I have also learned to maintain such a mentality now that even if I cannot exist in this world tomorrow, I will try my best to leave this world with dignity without leaving any regrets. So I will try my best to live my fake or real last day, so that every day of my life will have a miraculous sense of mission. My mission is to be kind to the time given to me, and to be kind to those who truly care about me and love me.
+
+And you are one of those people who love me unconditionally. I grew up with your selfless dedication and love. During the most important moments of my life, you were by my side, silently accommodating and bearing my fears, crying, willfulness, rebellion, impatience and neglect. Here, I sincerely thank you for everything you have done for me, and I sincerely say sorry to you for all my childish behavior. You may think that it is normal for grandparents to give to their children, but these are indelible memories of my growing up. Everything you do, and everything about you, has frozen the most beautiful side in my mind. Now whenever I think of you in a foreign country, the deepest impression in my mind is the strong, selfless, love-hate and a little stubborn you in my mind; the one who once held my little hand and took me to elementary school You who went to school; the one who used to make me a "stove" under the quilt in the cold and humid winter of Wenzhou; the one who endured my neglect and impatience when I was facing the most pressure of the college entrance examination, but still preferred me you. I clearly know that now you are deeply in the pain of loneliness and hallucinations, with white hair and haggard face, but you are still the image of that strong and capable woman in my mind. Grandma, maybe you think you are insignificant in this world, maybe we are all very insignificant in this world. But to me, you are one of the few most important people in the world. Then your image will be infinitely enlarged in my heart, and my memory may become the trace and meaning of a part of your existence in this world. So, please don't be afraid, grandma, I will carefully treasure your best side in my heart forever and never melt.
+
+Now that I'm here, let me share with you those beautiful fragments in my memory. You also need to help me remember.
+
+Your earliest memory of grandma seems to be the first grade of elementary school, you took me to school, and then waited for me to finish school at the gate of the vegetable market in Washi. When I was able to go to and from school myself, I remember that you were able to accurately capture me coming back from school from the kitchen window and calling me home for dinner. The kitchen at that time is still where my room is now. The kitchen has a large water tank. Once, you made me jelly with water from a water tank. Although the ingredients were given by the neighbor's grandma, the taste of the jelly is really cool, sweet and refreshing.
+
+By the way, there are also ropes and plastic bags hanging from the 7th floor. When I was a kid, I forgot something and shouted downstairs. At this time, grandma, you will put down things like red scarves, little yellow hats and school badges from upstairs. Now that I think about it, it was really funny that I had to wear these three-piece suits every day to go to school, and I was deducted points when I was checked at the school gate. But none of this matters. The important thing is that the set of ropes and the form of this delivery item are really unique, and as a child I also liked to pull the ropes up and down from the balcony. Speaking of balconies, grandma, you have raised a lot of flowers, and the most memorable ones are Epiphyllum and Mimosa. I remember when the Epiphyllum was blooming at night, it looked hazy and soft under the light of the balcony. After that, you will cut the epiphyllum and make me tea, saying it is good for the body.
+
+There are also some memories you mentioned to me. For example, you helped me clean up in elementary school because I was afraid that I would not be able to do it well. And I got a sanitation award for your cleaning. At that time, I didn't think much about it, but now that I think about it, I was really spoiled by you when I was a child, haha, fortunately, it's not bad. When it comes to eating, though, I feel like I'm absolutely spoiled. After I went to the Netherlands, I realized how rare it is to be able to eat seafood and three hot meals every day. Up to now, I still feel a little unaccustomed to eating a meal of bread every day, and always want to eat something hot and delicious. Thank you so much for putting up with my fussy and picky eaters and now I feel how blessed and rare it is to be spoiled when it comes to eating. I can't forget that at 9 o'clock in the evening, you cooked a large pot of gold noodles with shredded pork and balls for me and myself, and it happened to be the time for Blue Cat's Naughty Sanqianwen and Teletubbies. We each held a basin of noodles, and chirped and ate the one called incense. I can't forget that I often eat frantically when you finish frying the ribs and shrimp, but if you are afraid that I will get angry, I will stop me and let me eat it after it is cold. I made a list of all the meals you cooked for me that I liked. On the one hand, it is to keep these memories, and on the other hand, I want to try cooking and eating by myself in the Netherlands. Many flavors have been restored! I will cook it for you next time :)
+
+There is also a precious memory, grandma, as you know, it was my senior year of high school. At that time, in order to let me study with peace of mind, you moved to Shanghai to take care of me for a year. And this year, I think it is also the year I want to apologize and thank you most. At that time, I seemed to be completely immersed in my pursuit of my dream of studying, making it difficult for me to truly appreciate the efforts of the people around me. However, as I get older, I have a deeper look at my heart and my memories, and this memory has become more unforgettable. I didn't seem to think that you would come to Shanghai to take care of me at the time. I wanted to leave my hometown without my relatives and friends, and I wanted to live alone in Shanghai. I didn't think carefully about how you would go through this period. I really lacked empathy at the time, and I hope my grandma can forgive me.
+
+I found myself talking and deviating from the topic again. I said that I wanted to talk about beautiful clips. There are still a lot of clips, waiting to chat with you slowly when you are on the phone, just waiting to slowly recall with you. Maybe we didn't have too much time to talk, but I realize it now. So, I will cherish every time I call you. Hope you are too :)
+
+Grandma, don't be afraid when night falls. Let us be brave together and find our dignity and the bright starry sky in the dark night.
+
+Sending you one of my favorite poems - "Don't Go Gentle Into That Good Night" by Dylan Thomas. Here I use Wu Ningkun's translation.
+
+Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.
+
+Though wise men at their end know dark is right,
+Because their words had forked no lightning they
+Do not go gentle into that good night.
+
+Good men, the last wave by, crying how bright
+Their frail deeds might have danced in a green bay,
+Rage, rage against the dying of the light.
+
+Wild men who caught and sang the sun in flight,
+And learn, too late, they grieved it on its way,
+Do not go gentle into that good night.
+
+Grave men, near death, who see with blinding sight
+Blind eyes could blaze like meteors and be gay,
+Rage, rage against the dying of the light.
+
+And you, my father, there on the sad height,
+Curse, bless, me now with your fierce tears, I pray.
+Do not go gentle into that good night.
+Rage, rage against the dying of the light.
+
 
 
 

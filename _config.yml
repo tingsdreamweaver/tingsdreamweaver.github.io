@@ -36,10 +36,11 @@ gitment:
   secret: 13b91b306680f11a55713382529b83259ef56546
 
 # 主题设置，自动激活某个标签
-# active: Computer Science
+active: IT
 
 # 首页除了最新文章外显示分类
 cates: 
+  - IT
   - Learning
 
 # Chinese

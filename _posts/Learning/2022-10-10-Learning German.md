@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning German
+title: German
 category: Learning
 tags: DE
 keywords: DE

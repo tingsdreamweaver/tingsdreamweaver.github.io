@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To my grandma 致我的奶奶
+title: To my grandma
 category: Life
 tags: family
 keywords: family

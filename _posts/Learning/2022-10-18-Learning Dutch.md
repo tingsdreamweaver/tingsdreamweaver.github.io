@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Dutch
+title: Dutch
 category: Learning
 tags: NL
 keywords: NL
